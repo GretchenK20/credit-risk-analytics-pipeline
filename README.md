@@ -1,7 +1,7 @@
 #                                                   Consumer Credit Risk Analytics Dashboard
 
 A multi-source data pipeline and interactive analytics dashboard tracking U.S. consumer credit stress indicators from 2014–2024. Built with Apache Airflow, Python, Bokeh, Matplotlib, and Tableau.
-<img width="899" height="512" alt="image" src="https://github.com/user-attachments/assets/9e4a96ab-6054-4380-a42f-dfb54295dc2b" />
+
 
 
 
@@ -119,6 +119,7 @@ python viz/viz2_choropleth.py
 python viz/viz3_scatter.py
 python viz/eda.py
 python viz/build_dashboard.py
+<img width="899" height="512" alt="image" src="https://github.com/user-attachments/assets/fe26b2c7-f575-408c-83af-e2132b628496" />
 
 # 7. Open the dashboard
 open viz/dashboard.html
