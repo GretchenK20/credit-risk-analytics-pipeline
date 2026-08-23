@@ -1,4 +1,4 @@
-                                            # Consumer Credit Risk Analytics Dashboard
+#                                                   Consumer Credit Risk Analytics Dashboard
 
 A multi-source data pipeline and interactive analytics dashboard tracking U.S. consumer credit stress indicators from 2014–2024. Built with Apache Airflow, Python, Bokeh, Matplotlib, and Tableau.
 
