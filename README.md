@@ -2,7 +2,7 @@
 
 A multi-source data pipeline and interactive analytics dashboard tracking U.S. consumer credit stress indicators from 2014–2024. Built with Apache Airflow, Python, Bokeh, Matplotlib, and Tableau.
 
-
+Visuals: https://gretchenk20.github.io/credit-risk-analytics-pipeline/viz/dashboard.html
 
 
 ## The Hypothesis
