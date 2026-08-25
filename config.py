@@ -1,6 +1,5 @@
 """
 Credit Risk Analytics Pipeline - Configuration
-First Citizens Bank Data Engineer II Portfolio Project
 Author: Gretchen Kolthoff
 """
 
