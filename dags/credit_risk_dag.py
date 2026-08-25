@@ -1,7 +1,7 @@
 """
 Credit Risk Analytics Pipeline — Airflow DAG
 Author: Gretchen Kolthoff
-First Citizens Bank Data Engineer II Portfolio Project
+
 
 DAG Architecture:
     pull_fred ──┐
@@ -14,8 +14,7 @@ DAG Architecture:
                                                                (Bokeh Viz 1)  (Tableau Viz 3)
                                                                bls_choropleth (Bokeh Viz 2)
 
-Runs: On-demand (manual trigger) for portfolio demo.
-      In production would be scheduled @monthly or @weekly.
+
 """
 
 import sys
